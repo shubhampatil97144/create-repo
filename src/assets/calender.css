@@ -1,0 +1,279 @@
+.card-body {
+  position: absolute;
+  width: 306px;
+  height: 743px;
+  left: -1px;
+  top: 0px;
+
+  background: #ffffff;
+  border: 1px solid #e8ebee;
+  box-sizing: border-box;
+  box-shadow: 0px 2px 3px 2px rgba(45, 46, 69, 0.05);
+  border-radius: 5px;
+  left: -1310px;
+}
+
+.card-header {
+  position: absolute;
+  width: 306px;
+  height: 39px;
+  left: 0px;
+  top: 0px;
+
+  background: #f4f7f9;
+  border: 1px solid #dce0e4;
+  box-sizing: border-box;
+  border-radius: 5px 5px 0px 0px;
+}
+.hedding {
+  position: absolute;
+  width: 174.37px;
+  height: 21.67px;
+  left: 20px;
+  top: 8px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15.4769px;
+  line-height: 11px;
+  /* or 73% */
+
+  letter-spacing: -0.495554px;
+
+  color: #4d555e;
+}
+.card-text {
+  position: absolute;
+  width: 208px;
+  height: 31px;
+  left: 48px;
+  top: 66px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 10px;
+  /* or 71% */
+
+  text-align: center;
+  letter-spacing: -0.495554px;
+
+  color: #4d555e;
+}
+.daily-checkin {
+  position: absolute;
+  width: 75px;
+  height: 51px;
+  left: 21px;
+  top: 118px;
+
+  /* Secondary 2 */
+
+  background: #03dac5;
+  /* Dark Inner Shadow */
+
+  box-shadow: inset 0px 0px 7px rgba(0, 0, 0, 0.2);
+  border-radius: 6.86px 6.86px 6.86px 4.5px;
+}
+.current-streak {
+  position: absolute;
+  width: 80px;
+  height: 51px;
+  left: 108px;
+  top: 118px;
+
+  /* LM - Primary */
+
+  background: #537def;
+  /* Dark Inner Shadow */
+
+  box-shadow: inset 0px 0px 7px rgba(0, 0, 0, 0.2);
+  border-radius: 6.86px 6.86px 6.86px 4.5px;
+}
+.longest-streak {
+  position: absolute;
+  width: 82px;
+  height: 51px;
+  left: 201px;
+  top: 118px;
+
+  /* Purple 2 */
+
+  background: #9ea2ff;
+  /* Dark Inner Shadow */
+
+  box-shadow: inset 0px 0px 7px rgba(0, 0, 0, 0.2);
+  border-radius: 6.86px 6.86px 6.86px 4.5px;
+}
+p {
+  position: absolute;
+  width: 55px;
+  height: 10px;
+  left: 9px;
+  top: 2px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 110%;
+  color: #ffffff;
+}
+.body-text {
+  position: absolute;
+  width: 54px;
+  height: 14px;
+  left: 9px;
+  top: 34px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 0.01em;
+  color: #ffffff;
+  line-height: 110%;
+}
+.row {
+  position: absolute;
+  width: 306px;
+  height: 0px;
+  left: 0px;
+  top: 195px;
+
+  border: 1px solid #dce0e4;
+  transform: rotate(0.19deg);
+}
+.calender-header {
+  position: absolute;
+  height: 24px;
+  left: 115px;
+  right: 0px;
+  top: calc(50% - 24px / 2 - 134.5px);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24px;
+  /* identical to box height, or 185% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.12px;
+
+  /* Grey */
+
+  color: #717c99;
+}
+.calender-footer {
+  position: absolute;
+  left: 109px;
+  right: 115px;
+  top: 472px;
+  bottom: 243px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+  /* identical to box height, or 145% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.2px;
+
+  color: #6a737d;
+}
+.card-1 {
+  position: absolute;
+  width: 275.45px;
+  height: 37.61px;
+  left: 13.45px;
+  top: 499px;
+
+  background: #fefdfd;
+  box-shadow: 0px 1px 5px rgba(200, 211, 232, 0.75);
+  border-radius: 3px;
+}
+.card-2 {
+  position: absolute;
+  width: 275.45px;
+  height: 37.61px;
+  left: 13.45px;
+  top: 543.25px;
+
+  background: #fefdfd;
+  box-shadow: 0px 1px 5px rgba(200, 211, 232, 0.75);
+  border-radius: 3px;
+}
+.card-3 {
+  position: absolute;
+  width: 277px;
+  height: 101px;
+  left: 13px;
+  top: 590px;
+
+  background: #f7faff;
+  box-shadow: 0px 1.10622px 4.42487px 1.80739px rgba(200, 211, 232, 0.4);
+  border-radius: 3px;
+}
+
+.card-title-1 {
+  width: 56.42px;
+  height: 13.27px;
+  left: 70.12px;
+  top: 8.1px;
+  /* color: #00BA88; */
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12.1684px;
+  line-height: 13px;
+  letter-spacing: -0.548192px;
+  color: #00ba88;
+  position: absolute;
+}
+.card-heading-1 {
+  position: absolute;
+  width: 42px;
+  height: 13px;
+  left: 72.22px;
+  top: 23.1px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 13px;
+  letter-spacing: -0.548192px;
+  color: #8c9297;
+}
+.card-title-text {
+  position: absolute;
+  width: 257.75px;
+  height: 7.74px;
+  left: 23.4px;
+  top: 43.1px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 110%;
+  /* or 11px */
+
+  letter-spacing: -0.01em;
+
+  color: #717c99;
+}
+.card-img-logo {
+  position: absolute;
+  width: 182.91px;
+  height: 26.28px;
+  left: 89px;
+  top: 74px;
+}
+

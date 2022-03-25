@@ -1,0 +1,310 @@
+.box {
+  position: absolute;
+  width: 685px;
+  height: 479px;
+  
+  /* White */
+  
+  background: #FFFFFF;
+  left: -800px;
+  border: 1px solid #e8ebee;
+}
+.card-months-calender-1 {
+  right: 523px;
+  top: 27px;
+  position: absolute;
+  width: 125px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.card-img-date21{
+  height: 39px;
+  
+}
+.card-months-calender-2 {
+  right: 523px;
+  top: 90px;
+  position: absolute;
+  width: 125px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.card-months-calender-3 {
+  right: 523px;
+  top: 153px;
+  position: absolute;
+  width: 125px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.card-months-calender-4 {
+  right: 523px;
+  top: 216px;
+  position: absolute;
+  width: 125px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.card-months-calender-5 {
+  right: 523px;
+  top: 279px;
+  position: absolute;
+  width: 125px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.card-months-calender-6 {
+  right: 523px;
+  top: 342px;
+  position: absolute;
+  width: 125px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.last-months-text1 {
+  position: absolute;
+  width: 89px;
+  height: 22px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 22px;
+  /* identical to box height, or 220% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #000000;
+  top: 39px;
+  left: 180px;
+}
+.last-months-text2 {
+  position: absolute;
+  width: 89px;
+  height: 22px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 22px;
+  /* identical to box height, or 220% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #000000;
+  top: 105px;
+  left: 180px;
+}
+.last-months-text3 {
+  position: absolute;
+  width: 89px;
+  height: 22px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 22px;
+  /* identical to box height, or 220% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #000000;
+  top: 171px;
+  left: 180px;
+}
+.last-months-text4 {
+  position: absolute;
+  width: 89px;
+  height: 22px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 22px;
+  /* identical to box height, or 220% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #000000;
+  top: 237px;
+  left: 180px;
+}
+.last-months-text5 {
+  position: absolute;
+  width: 104px;
+  height: 22px;
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 22px;
+  /* identical to box height, or 220% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #000000;
+  top: 303px;
+  left: 180px;
+}
+.last-months-text6{
+  position: absolute;
+  width: 122px;
+  height: 22px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.22px;
+  color: #000000;
+  top: 361px;
+  left: 180px;
+}
+.card-months-1 {
+  position: absolute;
+  width: 275.45px;
+  height: 37.61px;
+  left: 358px;
+  top: 40px;
+
+  background: #fefdfd;
+  box-shadow: 0px 1px 5px rgba(200, 211, 232, 0.75);
+  border-radius: 3px;
+}
+.card-months-title-1 {
+  width: 56.42px;
+  height: 13.27px;
+  left: 70.12px;
+  top: 8.1px;
+  /* color: #00BA88; */
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12.1684px;
+  line-height: 13px;
+  letter-spacing: -0.548192px;
+  color: #00ba88;
+  position: absolute;
+}
+.card-months-heading-1 {
+  position: absolute;
+  width: 42px;
+  height: 13px;
+  left: 72.22px;
+  top: 23.1px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 13px;
+  letter-spacing: -0.548192px;
+  color: #8c9297;
+}
+.card-months-2 {
+  position: absolute;
+  width: 275.45px;
+  height: 37.61px;
+  left: 358px;
+  top: 90px;
+
+  background: #fefdfd;
+  box-shadow: 0px 1px 5px rgba(200, 211, 232, 0.75);
+  border-radius: 3px;
+}
+.card-months-3 {
+  position: absolute;
+  width: 275.45px;
+  height: 37.61px;
+  left: 358px;
+  top: 140px;
+
+  background: #fefdfd;
+  box-shadow: 0px 1px 5px rgba(200, 211, 232, 0.75);
+  border-radius: 3px;
+}
+.card-months-4 {
+  position: absolute;
+  width: 275.45px;
+  height: 37.61px;
+  left: 358px;
+  top: 190px;
+
+  background: #fefdfd;
+  box-shadow: 0px 1px 5px rgba(200, 211, 232, 0.75);
+  border-radius: 3px;
+}
+.card-text-months{
+  position: absolute;
+    width: 125px;
+    height: 16px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #537DEF;
+    top: 329px;
+    left: 367px;
+}
+.card-text-months1{
+    position: absolute;
+    width: 125px;
+    height: 16px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #537DEF;
+    top: 329px;
+    left: 500px;
+}
+.card-shared{
+  position: absolute;
+  width: 36px;
+  height: 16.68px;
+  top: 356px;
+  left: 365px;
+}
+.card-notshared{
+  position: absolute;
+  width: 36px;
+  height: 16.68px;
+  top: 356px;
+  left: 412px;
+}
+.calender{
+  position: absolute;
+  top: 285px;
+}
