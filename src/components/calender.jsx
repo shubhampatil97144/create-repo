@@ -1,7 +1,7 @@
 import { Box, Grid, Paper } from "@material-ui/core";
 import "../assets/calender.css";
-import React, { useState } from 'react';
-import Calendar from 'react-calendar';
+import React, { useState } from "react";
+import Calendar from "react-calendar";
 
 const paperStyle = {
   padding: 20,
@@ -39,25 +39,28 @@ function Calender() {
       <div className="row"></div>
       <div className="calender-header">May 2019</div>
       <div className="calender">
-      <Calendar onChange={onChange} value={value} />
-    </div>
+        <Calendar onChange={onChange} value={value} />
+      </div>
       <div className="calender-footer">Sunday May 18</div>
       <div className="card-1">
-        <img className="card-img" src="../assets/images/logo.svg" /> 
+        <img className="card-img" src="../assets/images/logo.svg" />
         <div className="card-title-1">Very Good</div>
         <div className="card-heading-1">Today, 7:45</div>
       </div>
       <div className="card-2">
-        <img className="card-img" src="../assets/images/logo.svg" /> 
+        <img className="card-img" src="../assets/images/logo.svg" />
         <div className="card-title-1">Very Good</div>
         <div className="card-heading-1">Today, 7:45</div>
       </div>
       <div className="card-3">
-        <img className="card-img" src="../assets/images/logo.svg" /> 
+        <img className="card-img" src="../assets/images/logo.svg" />
         <div className="card-title-1">Very Good</div>
         <div className="card-heading-1">Today, 7:45</div>
-        <div className="card-title-text">Awesome Feedback from Ben! Super excited to continue to <br/> work with him on Project X </div>
-        <img className="card-img-logo" src="../assets/images/Group 541.jpg" /> 
+        <div className="card-title-text">
+          Awesome Feedback from Ben! Super excited to continue to <br /> work
+          with him on Project X{" "}
+        </div>
+        <img className="card-img-logo" src="../assets/images/Group 541.jpg" />
       </div>
     </div>
   );
